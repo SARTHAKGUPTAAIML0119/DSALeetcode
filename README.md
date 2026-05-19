@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0066-plus-one) |
 ## Recursion
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0035-search-insert-position) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
