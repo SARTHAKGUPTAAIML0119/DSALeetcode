@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0066-plus-one) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0020-valid-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0155-min-stack) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
