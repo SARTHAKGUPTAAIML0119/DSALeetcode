@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0027-remove-element) |
+| [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Game Theory
@@ -99,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
