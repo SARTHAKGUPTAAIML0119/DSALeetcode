@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
 | [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3731-find-missing-elements) |
