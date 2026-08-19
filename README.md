@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 ## Binary Search
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
