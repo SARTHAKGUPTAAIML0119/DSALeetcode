@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
