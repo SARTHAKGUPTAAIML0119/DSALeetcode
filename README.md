@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0198-house-robber) |
 | [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
 ## Hash Table
