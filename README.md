@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0844-backspace-string-compare) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Divide and Conquer
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -211,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
