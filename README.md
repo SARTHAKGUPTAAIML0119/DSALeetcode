@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0739-daily-temperatures) |
 | [1406-stone-game-iii](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -116,12 +117,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/SARTHAKGUPTAAIML0119/DSALeetcode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
